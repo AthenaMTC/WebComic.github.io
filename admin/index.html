@@ -11,21 +11,25 @@
 
         <div class="con">
             <div class="email-form">
-                <h2   color: white;> ADMIN LOGIN</h2>
+                <h2  style="color: white;"> ADMIN LOGIN</h2>
     
-                <form action="#">
+                <form action="dashboard.html">
                     <div class="email">
-                        <input type="email" placeholder="Email" required value=" ">
+                        <label for="email"></label>
+                        <input type="email" placeholder="Email"  id="email">
                         <i class="fa-solid fa-envelope"></i>
                     </div>
     
                     <div class="password">
-                        <input type="password" placeholder="Password" required >
+                        <label for="pass"></label>
+                        <input type="password" placeholder="Password" required id="pass" >
                         <i class="fa-solid fa-lock"></i>
                     </div>
+                    <input type="submit" class="button">
+                    
                 </form>
 
-               <a href="dashboard.html">  <button>LOGIN </button></a>
+                
             </div>
         </div>
   
