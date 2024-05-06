@@ -20,3 +20,8 @@ Dark Mode: Enjoy reading your favorite webcomics in a sleek and eye-friendly dar
 Reader Interaction: Engage with your readers through comments, likes, and sharing features, fostering a vibrant community around your comics.
 
 Community Features: Connect with fellow readers and creators through forums, groups, and events, fostering a supportive and collaborative environment.
+
+
+-Haliluddin, Naila T.
+-Casiño, Athena Maia T.
+BSCS 2B
