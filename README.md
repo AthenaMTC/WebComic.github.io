@@ -21,6 +21,7 @@ Reader Interaction: Engage with your readers through comments, likes, and sharin
 
 Community Features: Connect with fellow readers and creators through forums, groups, and events, fostering a supportive and collaborative environment.
 
+media queries(768px,480px)
 
 -Haliluddin, Naila T.
 -Casiño, Athena Maia T.
